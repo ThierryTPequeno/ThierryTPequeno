@@ -1,1 +1,1 @@
-<h1 align="center">Hello, I'm Thierry <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>
+<h1 align="center">Hello, I'm Thierry <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2cza3cyNG84dnkzN2MzcXEzbXVxaDA0MXF6aHpsbWtrdzZlM2NxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WYrz78UZPsNu3EJ91l/giphy.gif" width="30px"></h1>
